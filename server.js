@@ -12,7 +12,7 @@ extended: false
 
 app.use(methodOverride('_method'));
 app.engine("handlebars", exphbs({
-    defaultLayout:"main"
+defaultLayout:"main"
 }));
 app.set("view engine", "handlebars");
 

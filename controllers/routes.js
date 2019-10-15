@@ -19,5 +19,5 @@ router.post("/burgers/create", function (req, res) {
         res.redirect("/");
     })
 })
-//link routes.js and server.js file together
+//link burger_controller.js and server.js file together
 module.exports = router;    
