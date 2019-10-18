@@ -45,7 +45,7 @@ https://git.heroku.com/nicole-burger-hw.git
 * Javascript
 * ORM
 * Handlebars
+* Heroku
 
 # **__My Role In The App Development__**
  My role was to develop the MySQL database, javascript, ORM and Handlebars code necessary meet the requirements of the homework assignment. I also collaborated with other students about approach and functionality.
-    
