@@ -1,4 +1,4 @@
- **Eat Da Burger!**
+ **__Eat Da Burger!__**
 
 # **__What Problem Does The Application Solve?__**  
 It solves the problem of tracking burgers and when they have beed devoured through the routing and restful manipulation of the MyQSL database. The application uses
